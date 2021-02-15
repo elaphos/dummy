@@ -1,0 +1,13 @@
+{
+    "name": "elaphos/dummy",
+    "description": "Dummy package",
+    "homepage": "https://github.com/elaphos/dummy",
+    "authors": [
+        {
+            "name": "Andreas Hirsch",
+            "email": "ah@elaphos.de",
+            "homepage": "https://elaphos.de",
+            "role": "Developer"
+        }
+    ]
+}
